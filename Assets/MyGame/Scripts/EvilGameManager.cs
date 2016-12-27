@@ -27,7 +27,7 @@ public class EvilGameManager : MonoBehaviour {
 	public EvilRange FoodCount;
 	public EvilRange EnemyCount;
 	public GameObject[] Floors;
-	public GameObject[] OutWalls;
+	public GameObject[] OutWalls; 
 	public GameObject[] Walls;
 	public GameObject[] Foods;
 	public GameObject[] Enemys;
